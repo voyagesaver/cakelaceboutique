@@ -1908,21 +1908,50 @@ body {
 .cid-riOMwUnCnI .price-block {
   color: #767676;
 }
-.cid-riOUf5aHcR {
-  padding-top: 75px;
-  padding-bottom: 75px;
-  background-image: url("../../../assets/images/alexandra-marcu-1280256-unsplash-2000x1294.jpg");
+.cid-riQK2ZcFx4 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #e96188;
 }
-.cid-riOUf5aHcR .mbr-section-title {
-  text-align: center;
+.cid-riQK2ZcFx4 .main {
+  -webkit-flex-direction: row-reverse;
+  flex-direction: row-reverse;
 }
-.cid-riOUf5aHcR .mbr-section-subtitle {
+.cid-riQK2ZcFx4 .row-element,
+.cid-riQK2ZcFx4 .image-element {
+  padding: 0;
+}
+.cid-riQK2ZcFx4 .image-element {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+}
+.cid-riQK2ZcFx4 .image-element img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center center;
+}
+.cid-riQK2ZcFx4 .text-content {
+  padding: 3rem;
+}
+@media (max-width: 767px) {
+  .cid-riQK2ZcFx4 .text-content {
+    padding: 2rem 1rem;
+  }
+  .cid-riQK2ZcFx4 .mbr-title,
+  .cid-riQK2ZcFx4 .underline,
+  .cid-riQK2ZcFx4 .mbr-text,
+  .cid-riQK2ZcFx4 .mbr-section-btn {
+    text-align: center !important;
+  }
+}
+.cid-riQK2ZcFx4 .mbr-text,
+.cid-riQK2ZcFx4 .mbr-section-btn {
   text-align: left;
 }
-.cid-riOUf5aHcR .mbr-section-title,
-.cid-riOUf5aHcR .mbr-section-btn {
-  text-align: left;
-  color: #c1c1c1;
+.cid-riQK2ZcFx4 .mbr-title B {
+  color: #efefef;
 }
 #custom-html-j {
   /* Type valid CSS here */
