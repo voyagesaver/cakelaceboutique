@@ -2517,13 +2517,25 @@ body {
 .cid-riQbm0xkU7 {
   padding-top: 150px;
   padding-bottom: 150px;
-  background-image: url("../../../assets/images/clarke-sanders-264639-unsplash-1-2000x1333.jpg");
+  background-image: url("../../../assets/images/kyle-loftus-695799-unsplash-1861x2792.jpg");
 }
 .cid-riQbm0xkU7 .mbr-section-title {
   text-align: center;
 }
 .cid-riQbm0xkU7 .mbr-section-subtitle {
   text-align: center;
+}
+#custom-html-q {
+  /* Type valid CSS here */
+}
+#custom-html-q .my-image {
+  width: 100%;
+}
+#custom-html-p {
+  /* Type valid CSS here */
+}
+#custom-html-p .my-image {
+  width: 100%;
 }
 .cid-riOyitmNZm .dropdown-item:before {
   font-family: MobiriseIcons !important;
@@ -2906,6 +2918,12 @@ body {
 #custom-html-m .my-image {
   width: 100%;
 }
+#custom-html-r {
+  /* Type valid CSS here */
+}
+#custom-html-r .my-image {
+  width: 100%;
+}
 .cid-riP7G7sMIJ {
   padding-top: 45px;
   padding-bottom: 15px;
@@ -3012,5 +3030,38 @@ body {
   .cid-riP7G7sMIJ .social-list {
     -webkit-justify-content: center !important;
     justify-content: center !important;
+  }
+}
+.cid-riQhmQiZsu {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #232323;
+}
+.cid-riQhmQiZsu .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-riQhmQiZsu ul.list-inline {
+  margin: 0;
+  -webkit-align-self: center;
+  align-self: center;
+}
+.cid-riQhmQiZsu ul.list-inline li {
+  margin: 0;
+  padding: .5rem;
+}
+.cid-riQhmQiZsu ul.list-inline img {
+  max-width: 6rem;
+  padding-bottom: .5rem;
+}
+.cid-riQhmQiZsu ul.list-inline img:hover {
+  -webkit-filter: none;
+  -moz-filter: none;
+  -ms-filter: none;
+  -o-filter: none;
+  filter: none;
+}
+@media (max-width: 767px) {
+  .cid-riQhmQiZsu .list-inline-item img {
+    max-width: 5rem;
   }
 }
