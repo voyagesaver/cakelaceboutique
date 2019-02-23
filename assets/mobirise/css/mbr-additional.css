@@ -2188,7 +2188,7 @@ body {
 }
 .cid-riP7vMPPPA {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 90px;
   background-image: url("../../../assets/images/shari-sirotnak-686557-unsplash-1-2000x1148.jpg");
 }
 .cid-riP7vMPPPA .carousel-item {
@@ -2386,6 +2386,10 @@ body {
 }
 .cid-riPckh0nMZ .btn:focus {
   box-shadow: none !important;
+}
+.cid-riPckh0nMZ .mbr-section-title,
+.cid-riPckh0nMZ .mbr-gallery-filter ul B {
+  color: #494949;
 }
 .cid-riPFNFcyHR {
   padding-top: 0px;
